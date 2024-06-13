@@ -13,12 +13,22 @@
 </p>
 </h3>
 
+###
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aleftina17&theme=merko&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  
+</div>
+
+###
+
 <h3 align="center">
 Contact me:
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:teekupinmuotti@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/alina-ryskova-723038259/" target="_blank">
@@ -29,4 +39,5 @@ Contact me:
   </a>
 </div>
 </h3>
+
 
