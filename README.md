@@ -23,6 +23,14 @@
 
 ###
 
+<div align="center">
+  
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Aleftina17&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
+
+</div>
+
+###
+
 <h3 align="center">
 Contact me:
 
